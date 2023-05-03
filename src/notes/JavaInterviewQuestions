@@ -1,0 +1,11 @@
+what is java?
+
+java is an high level ,object oriented program.It is easy to learn.It is platform independent.
+
+why java is platform independnt?
+
+ java is platform independnt,beacuse it has both compiler and interpreter,the compiler changes the source code into byte code and then the interpreter  excuet the byte code in run time.java is interpretered,so  java is platform independnt.
+
+ why java is secure?
+
+ java is secure because it does not has  explicit pointers
