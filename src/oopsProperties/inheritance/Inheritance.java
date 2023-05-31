@@ -1,4 +1,4 @@
-package oopsProperties;
+package oopsProperties.inheritance;
 
 public class Inheritance {
     public static void main(String[] args) {
@@ -70,9 +70,9 @@ class Bear extends Lion {
     }
 
     int hands;
-    public void eatsVeg(){
-        System.out.println("eats veg");
-    }
+
+
+
 
 
 }
